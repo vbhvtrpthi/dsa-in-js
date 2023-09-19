@@ -1,4 +1,4 @@
-# Arijit-DSA Package in JS
+# Vaibhav-DSA Package in JS
 
 ## A Data Structures and Algorithms library for NodeJS
 
