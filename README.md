@@ -20,7 +20,7 @@ This package contains templates for the following Data Structures and Algorithms
 
 ```
 // import the package
-const dsa = require("arijitdsa.js"); 
+const dsa = require("vbhvtrpthi.js"); 
 
 const arr = [7, 3, 1, 5, 8, 9, 0, 2]; 
 
@@ -35,7 +35,7 @@ console.log(arr);
 
 ```
 // import the package
-const dsa = require("arijitdsa.js");
+const dsa = require("vbhvtrpthi.js");
 
 // creating an object of the PriorityQueue and inserting the elements using inbuilt function
 const pq = new dsa.DataStructures.PriorityQueue((a, b) => a> b);
